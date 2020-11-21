@@ -1,0 +1,114 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "children": [
+      {
+        "name": "dashboard-managingusers",
+        "path": "managingusers",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\managingusers.vue",
+        "chunkName": "pages/dashboard/managingusers",
+        "_name": "_317f4b61"
+      },
+      {
+        "name": "dashboard-modal",
+        "path": "modal",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal.vue",
+        "chunkName": "pages/dashboard/modal",
+        "children": [
+          {
+            "name": "dashboard-modal-category",
+            "path": "category",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\category\\\\index.vue",
+            "chunkName": "pages/dashboard/modal/category/index",
+            "_name": "_9a3ffdc8"
+          },
+          {
+            "name": "dashboard-modal-detail",
+            "path": "detail",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\detail\\\\index.vue",
+            "chunkName": "pages/dashboard/modal/detail/index",
+            "_name": "_f20bc02e"
+          },
+          {
+            "name": "dashboard-modal-category-name",
+            "path": "category/:name",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\category\\\\_name\\\\index.vue",
+            "chunkName": "pages/dashboard/modal/category/_name/index",
+            "_name": "_0445fb64"
+          },
+          {
+            "name": "dashboard-modal-detail-name",
+            "path": "detail/:name",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\detail\\\\_name\\\\index.vue",
+            "chunkName": "pages/dashboard/modal/detail/_name/index",
+            "_name": "_69d3da3e"
+          },
+          {
+            "name": "dashboard-modal-category-name-new",
+            "path": "category/:name/new",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\category\\\\_name\\\\new.vue",
+            "chunkName": "pages/dashboard/modal/category/_name/new",
+            "_name": "_4579151c"
+          },
+          {
+            "name": "dashboard-modal-detail-name-new",
+            "path": "detail/:name/new",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\modal\\\\detail\\\\_name\\\\new.vue",
+            "chunkName": "pages/dashboard/modal/detail/_name/new",
+            "_name": "_fe59a322"
+          }
+        ],
+        "_name": "_bf84f1b0"
+      },
+      {
+        "path": "systeminfo",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\systeminfo.vue",
+        "chunkName": "pages/dashboard/systeminfo",
+        "children": [
+          {
+            "name": "dashboard-systeminfo",
+            "path": "",
+            "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\dashboard\\\\systeminfo\\\\index.vue",
+            "chunkName": "pages/dashboard/systeminfo/index",
+            "_name": "_77530f50"
+          }
+        ],
+        "_name": "_49d49e1c"
+      }
+    ],
+    "_name": "_41eee815"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "children": [
+      {
+        "name": "user-login",
+        "path": "login",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\user\\\\login.vue",
+        "chunkName": "pages/user/login",
+        "_name": "_28131fff"
+      },
+      {
+        "name": "user-register",
+        "path": "register",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\user\\\\register.vue",
+        "chunkName": "pages/user/register",
+        "_name": "_47e9847d"
+      }
+    ],
+    "_name": "_08bade5a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_663a985a"
+  }
+]
