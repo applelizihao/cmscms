@@ -26,7 +26,8 @@ export default {
     { src: '@/plugins/vuetify' },
     { src: '~/plugins/persistedState.js', ssr: false },
     { src: '~/plugins/axios' },
-    { src: '~plugins/vue-markdown.js', ssr: false }
+    { src: '~plugins/vue-markdown.js', ssr: false },
+    { src: '~plugins/vueuploadimgs.js', ssr: false }
   ],
   loading: {
     color: 'blue',
